@@ -1,5 +1,5 @@
 # Task: Automating Web Applications using Jenkins, Docker and Github
-We have two environments Prdouction Server and Testing Server created using docker technology on RHEL8.
+We have two environments Prdouction Server and Testing Server created using docker.
 
 ## Workflow of the Task:
 ![Workflow](https://raw.githubusercontent.com/shivam1808/MLOps_Task/master/Jenkin%20Task.png)
